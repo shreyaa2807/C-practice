@@ -8,6 +8,7 @@ int main(){
         x= n%10;
         if(x%2==0){
             sum=sum+x;
+            
         }
         n=n/10;
     }
